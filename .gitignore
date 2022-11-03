@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 .venv
+
+# ignore out file from cse4820 sdr lab
+# (too big for gh)
+cse4820/labs/lab_4/src/out
