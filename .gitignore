@@ -1,7 +1,11 @@
 .ipynb_checkpoints/
-*.venv
+.venv
+.env
 *.code-workspace
 
 # ignore out file from cse4820 sdr lab
 # (too big for gh)
 cse4820/labs/lab_4/src/out
+
+# ignore datasets from cse4510
+cse4510/assignments/activity4/data/*
